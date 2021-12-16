@@ -17,11 +17,18 @@ To write a program to find the exponentiation of a number.
 Program to find the exponentiation of a number.
 Developed by: 
 RegisterNumber: 
+
+def exp(x):
+    print("Exponentiation of a given number:",x**2)
+x=int(input(""))
+exp(x)
+
 */
+
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](exp.png)
 
 
 ## Result:
